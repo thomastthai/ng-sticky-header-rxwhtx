@@ -1,7 +1,6 @@
 p {
   font-family: Lato;
 }
-
-.wrapper {
-  height: 1000px
-};
+.content {
+  margin-top: 2rem;
+}

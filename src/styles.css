@@ -1,1 +1,7 @@
 /* Add application styles & imports to this file! */
+
+.wrapper {
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+}
